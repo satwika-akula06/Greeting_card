@@ -10,7 +10,7 @@ A simple and customizable greeting card built with HTML and CSS. This project de
 
 ## 🎥 Preview
 
-You can view a video preview of the greeting card [here](preview.mp4). 
+You can view a video preview of the greeting card [here](Recording.mp4). 
 
 ## 🔗 Features
 
